@@ -1,0 +1,1 @@
+{"data/test":{"header":"Header","footer":"Footer","body":"Body","myArray":[{"title":"Untitled","tags":["tags","are","so","2005"]},{}]},"partials/body/body":{"body":"Body"},"partials/header/header":{"header":"Header"}}

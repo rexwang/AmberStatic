@@ -1,0 +1,21 @@
+{
+  "name": "amber-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rexwang",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-data": "^1.2.1",
+    "gulp-jsoncombine": "^1.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-swig": "^0.8.0",
+    "path": "^0.12.7"
+  }
+}
